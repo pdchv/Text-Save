@@ -1,4 +1,4 @@
-# SimplyText
+# Text + Save
 This is a text box with a save button. Files saved as .txt.
 Executable file in folder 'dist' available for Windows.
 
